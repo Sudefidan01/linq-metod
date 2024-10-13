@@ -1,0 +1,8 @@
+C:\Users\pcc\source\repos\20230827_LinqMetod\20230827_LinqMetod\bin\Debug\20230827_LinqMetod.exe.config
+C:\Users\pcc\source\repos\20230827_LinqMetod\20230827_LinqMetod\bin\Debug\20230827_LinqMetod.exe
+C:\Users\pcc\source\repos\20230827_LinqMetod\20230827_LinqMetod\bin\Debug\20230827_LinqMetod.pdb
+C:\Users\pcc\source\repos\20230827_LinqMetod\20230827_LinqMetod\obj\Debug\20230827_LinqMetod.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\20230827_LinqMetod\20230827_LinqMetod\obj\Debug\20230827_LinqMetod.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\20230827_LinqMetod\20230827_LinqMetod\obj\Debug\20230827_LinqMetod.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\20230827_LinqMetod\20230827_LinqMetod\obj\Debug\20230827_LinqMetod.exe
+C:\Users\pcc\source\repos\20230827_LinqMetod\20230827_LinqMetod\obj\Debug\20230827_LinqMetod.pdb
